@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maharshi-patel-software-developer">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/maharshipatel96">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://rookiebulls.com">rookiebulls.com</a>
   &nbsp;·&nbsp;
@@ -148,7 +148,7 @@ since.
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maharshi-patel-software-developer">
+  <a href="https://www.linkedin.com/in/maharshipatel96">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
